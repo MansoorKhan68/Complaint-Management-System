@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "13937493589",
+    "project_id": "easyshoping-app1",
+    "storage_bucket": "easyshoping-app1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13937493589:android:a904646e89c2ef2c8736dc",
+        "android_client_info": {
+          "package_name": "com.example.complain_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfN64QnZRuX-BStJgWn9I7V-UEFvvaqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
